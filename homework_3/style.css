@@ -1,0 +1,43 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.head{
+padding: 9px;
+margin-bottom: 80px;
+display: flex;
+gap: 500px;
+align-items: center;
+}
+
+
+.main{
+    margin-bottom: 163px;
+}
+.content-title{
+    margin-bottom: 17px;
+}
+.content-text{
+    margin-bottom: 37px;
+}
+.footer{
+    margin-bottom: 96px;
+    display: flex;
+    gap: 48px;
+
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.content{
+    display: flex;
+    gap: 48px;
+}
+.footer_navigation{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
